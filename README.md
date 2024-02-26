@@ -1,2 +1,2 @@
-# ola mundo 
- aluna texte primeiro repositório git github
+# Olá, Mundo 
+ Aluna texte primeiro repositório git github
